@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-10-29T21:05:25",
+  "counters": {
+    "rrc_connection_request": 2,
+    "rrc_connection_setup": 1,
+    "pdcp_sdus_tx": 150
+  }
+}
+{
+  "timestamp": "2026-10-29T21:07:47",
+  "counters": {
+    "rrc_connection_request": 2,
+    "rrc_connection_setup": 0,
+    "pdcp_sdus_tx": 0
+  }
+}
+{
+  "timestamp": "2026-10-29T21:07:49",
+  "counters": {
+    "rrc_connection_request": 2,
+    "rrc_connection_setup": 1,
+    "pdcp_sdus_tx": 100
+  }
+}
+{
+  "timestamp": "2026-10-29T21:07:51",
+  "counters": {
+    "rrc_connection_request": 2,
+    "rrc_connection_setup": 1,
+    "pdcp_sdus_tx": 150
+  }
+}
