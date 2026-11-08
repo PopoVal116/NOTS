@@ -1,15 +1,12 @@
 # OAI L3 counters + Victoria Metrics
 
-Лёгкий репозиторий: библиотека счётчиков и скрипт выгрузки в Victoria Metrics.
-Интеграция в OAI — правки в исходниках openairinterface5g (см. таблицу ниже).
-
 ## Содержимое репозитория
 
 | Путь | Назначение |
 |------|------------|
 | `counters/counters.h` | API библиотеки |
 | `counters/counters.c` | Реализация |
-| `push_oai_to_vm.py` | JSON → Victoria Metrics |
+| `push_oai_to_vm.py` | JSON -> Victoria Metrics |
 
 В дереве OAI библиотека лежит как:
 `openairinterface5g/common/utils/counters/`
